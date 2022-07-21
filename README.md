@@ -1,1 +1,1 @@
-# DSILZSR
+This repository contains the code developed for the Direct Side Information Learning for zero-shot regression
